@@ -12,7 +12,8 @@
     * JavaScript 的至今發展狀況
     * JavaScript 應用案例 -->
 
-* 範例專案說明
+* [範例專案說明](./004-js-workshop/readme.md)
+
     * [初始專案與專案說明](./004-js-workshop/004001-install.md)
     * [model: ORM 透過程式碼定義資料庫](./004-js-workshop/004002-model.md)
     * [test: 透過測試確認 model 定義運作正常，及定義 API spec](./004-js-workshop/004003-test.md)
