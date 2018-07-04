@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+<!-- * [Introduction](README.md)
 
 * 01 現代軟體開發工法
     * MVC 分層開發觀念
@@ -10,7 +10,7 @@
 
 * 為什麼要學 JavaScript
     * JavaScript 的至今發展狀況
-    * JavaScript 應用案例
+    * JavaScript 應用案例 -->
 
 * 範例專案說明
     * [初始專案與專案說明](./004-js-workshop/004001-install.md)
