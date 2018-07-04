@@ -17,7 +17,7 @@
     * [model: ORM 透過程式碼定義資料庫](./004-js-workshop/004002-model.md)
     * [test: 透過測試確認 model 定義運作正常，即定義 API spec](./004-js-workshop/004003-test.md)
     * [controller: 實作 API 並且透過 test 驗證 API](./004-js-workshop/004004-controller.md)
-    * [view: 前後端整合測試](./004-js-workshop/004005-view.md)
+    * [view: 前後端整合](./004-js-workshop/004005-view.md)
 
 * 實作練習
     * [Task 新增紀錄 Task 的完成狀態](./005-js-practice/005001-task-completed.md)
