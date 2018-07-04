@@ -23,7 +23,7 @@ npm start
 
 運行網址: <http://localhost:3000/>
 
->請先在後台再 username 的輸入框，輸入 `hellojs` 並
+>請先在後台 username 的輸入框，輸入 `hellojs` 並
 
 點選 `提交` 如下圖
 
