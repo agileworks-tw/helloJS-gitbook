@@ -23,7 +23,9 @@ npm start
 
 運行網址: <http://localhost:3000/>
 
-> 請先在後台再 username 的輸入框，輸入 `hellojs` 並點選 `提交` 如下圖
+>請先在後台再 username 的輸入框，輸入 `hellojs` 並
+
+點選 `提交` 如下圖
 
 ![](assets/2018-07-04-15-29-27.png)
 
