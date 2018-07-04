@@ -23,10 +23,11 @@ npm start
 
 運行網址: <http://localhost:3000/>
 
+> 請先在後台再 username 輸入 hellojs 並新增如下圖
 
+![](assets/2018-07-04-15-29-27.png)
 
-
-![](assets/2018-07-04-15-09-57.png)
+![](assets/2018-07-04-15-29-47.png)
 
 ### 資料結構說明
 
@@ -91,4 +92,3 @@ npm run dev
 
 ```
 
-![](assets/2018-07-04-15-08-59.png)
