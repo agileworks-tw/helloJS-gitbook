@@ -15,7 +15,7 @@
 * 範例專案說明
     * [初始專案與專案說明](./004-js-workshop/004001-install.md)
     * [model: ORM 透過程式碼定義資料庫](./004-js-workshop/004002-model.md)
-    * [test: 透過測試確認 model 定義運作正常，即定義 API spec](./004-js-workshop/004003-test.md)
+    * [test: 透過測試確認 model 定義運作正常，及定義 API spec](./004-js-workshop/004003-test.md)
     * [controller: 實作 API 並且透過 test 驗證 API](./004-js-workshop/004004-controller.md)
     * [view: 前後端整合](./004-js-workshop/004005-view.md)
 
