@@ -6,12 +6,12 @@
 * <https://github.com/agileworks-tw/express-example>
 * <https://github.com/agileworks-tw/express-example-vue>
 
-
+請先將上述兩個專案 fork 回您個人的 github 帳號。
 
 ## server side
 
 ```
-git clone https://github.com/agileworks-tw/express-example.git
+git clone https://github.com/${yourname}/express-example.git
 ```
 
 ```
@@ -23,6 +23,10 @@ npm start
 
 運行網址: <http://localhost:3000/>
 
+
+
+
+![](assets/2018-07-04-15-09-57.png)
 
 ### 資料結構說明
 
@@ -52,7 +56,7 @@ npm start
 ## client side
 
 ```
-git clone https://github.com/agileworks-tw/express-example-vue.git
+git clone https://github.com/${yourname}/express-example-vue.git
 ```
 
 ```
@@ -86,3 +90,5 @@ npm run dev
 └── static
 
 ```
+
+![](assets/2018-07-04-15-08-59.png)

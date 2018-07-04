@@ -34,6 +34,10 @@
 
 撰寫對應的 API 程式如下
 
+相關檔案路徑
+
+`${project_home}/express-example/routes/index.js`
+
 ```
 router.get('/api/users/:user_name/tasks', async function (req, res) {
   // 取得 api path 之參數 user_name 的值
@@ -111,6 +115,10 @@ router.get('/api/users/:user_name/tasks', async function (req, res) {
 ```
 
 撰寫對應的 API 程式如下
+
+相關檔案路徑
+
+`${project_home}/express-example/routes/index.js`
 
 ```
 
