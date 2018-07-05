@@ -11,6 +11,7 @@
 * 為什麼要學 JavaScript
     * JavaScript 的至今發展狀況
     * JavaScript 應用案例 -->
+* [環境安裝](./install.md)
 
 * [範例專案說明](./004-js-workshop/readme.md)
 
