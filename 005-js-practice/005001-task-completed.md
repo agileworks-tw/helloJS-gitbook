@@ -64,8 +64,8 @@ down: (queryInterface, Sequelize) => {
 
 ### 後端
 
-https://github.com/agileworks-tw/express-example/pull/1
+<https://github.com/agileworks-tw/express-example/pull/1>
 
 ### 前端
 
-https://github.com/agileworks-tw/express-example-vue/pull/1
+<https://github.com/agileworks-tw/express-example-vue/pull/1>
