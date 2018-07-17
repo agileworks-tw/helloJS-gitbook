@@ -132,10 +132,11 @@ handleRemove 改寫為
 
 而因為 React Native 的特性，可以同時運作於 iOS 及 Android 作業系統
 
-![](assets/2018-07-18-00-51-14.png)
+![](assets/2018-07-18-00-52-52.png)
 
-![](assets/2018-07-18-00-51-23.png)
+![](assets/2018-07-18-00-53-11.png)
 
 ## 解答
+
 
 <https://github.com/agileworks-tw/express-example-react-native/pull/1>
