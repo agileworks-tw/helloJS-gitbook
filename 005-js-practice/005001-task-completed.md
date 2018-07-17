@@ -10,7 +10,7 @@
 
 * model Task 新增 completed 欄位紀錄 Task 是否被完成
 
-* migration 程序新增 model Task 欄位 completed
+<!-- * migration 程序新增 model Task 欄位 completed
 
 新增 migration 檔案指令
 
@@ -39,8 +39,7 @@ down: (queryInterface, Sequelize) => {
 
 執行下列指令更新 database
 
-`node_modules/.bin/sequelize db:migrate`
-
+`node_modules/.bin/sequelize db:migrate` -->
 
 * 撰寫 test case 確認更新 model Task completed 成功
 * 新增 test 定義 task 更新 completed 之 API spec

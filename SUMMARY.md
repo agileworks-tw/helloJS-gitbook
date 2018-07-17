@@ -13,7 +13,7 @@
     * JavaScript 應用案例 -->
 * [環境安裝](./install.md)
 
-* [範例專案說明](./004-js-workshop/readme.md)
+* [API Server 及 web 前端範例專案說明](./004-js-workshop/readme.md)
 
     * [初始專案與專案說明](./004-js-workshop/004001-install.md)
     * [model: ORM 透過程式碼定義資料庫](./004-js-workshop/004002-model.md)
@@ -24,3 +24,13 @@
 
 * 實作練習
     * [Task 新增紀錄 Task 的完成狀態](./005-js-practice/005001-task-completed.md)
+
+
+* [DOJO 實作說明](./dojo/readme.md)
+    
+    * [Dojo 2 CI: 自動化測試及報表產出](./dojo/005002-ci-test.md)
+    * [Dojo 1 TDD: API 新增刪除 Task 功能](./dojo/005002-api-delete.md)
+    * [Dojo 3 React Native: APP 新增刪除 Task 功能](./dojo/005002-app-delete.md)
+
+
+* [React Native 範例專案說明](./005-js-workshop/readme.md)
