@@ -32,5 +32,3 @@
     * [Dojo 1 TDD: API 新增刪除 Task 功能](./dojo/005002-api-delete.md)
     * [Dojo 3 React Native: APP 新增刪除 Task 功能](./dojo/005002-app-delete.md)
 
-
-* [React Native 範例專案說明](./005-js-workshop/readme.md)
