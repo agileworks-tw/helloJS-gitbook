@@ -31,7 +31,7 @@
     />
 ```
 
-接著檢視 `app/components/TodoItem/TodoItem.js`
+接著檢視 `app/components/TodoItem/TodoList.js`
 
 上面加入的 `data, onPressComplete, onPressRemove` 透過下面程式碼傳入 `TodoItem`
 
@@ -117,7 +117,7 @@ handleRemove 改寫為
     console.log("handleRemove", todo);
     const todos = this.state.todos;
     
-    let response = await fetch(`${this.state.url}:3000/api/task/${todo.id}`, {
+    let response = await fetch(`${this.state.url}/api/task/${todo.id}`, {
       method: 'delete'
     });
     let result = await response.json();
